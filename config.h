@@ -1,4 +1,9 @@
 #pragma once
 
 #define SOFT_SERIAL_PIN D1
-#define MASTER_LEFT
+#define MASTER_RIGHT
+
+#define SPLIT_POINTING_ENABLE
+#define POINTING_DEVICE_RIGHT
+
+#define PMW33XX_CS_PIN D3
